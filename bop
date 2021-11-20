@@ -1,8 +1,4 @@
-{
-	"song": {
-		"player1": "miibf",
-		"player2": "matt",
-		"notes": [
+{"song":{"song":"Pico","bpm":280.0,"needsVoices":true,"player1":"bf","player2":"pico","speed":1.6,"notes":[
 			{
 				"lengthInSteps": 16,
 				"sectionNotes": [],
